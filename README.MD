@@ -69,7 +69,7 @@ https://nodejs.org/ko/
 3. 샘플 소스 다운로드
 
 ```bash
-$ wget https://github.com/play2bitgit/Play2Bit-Platform-Sample-LoginTest/raw/master/dist/Play2Bit-Platform-Sample.zip
+$ wget https://github.com/play2bitgit/Play2Bit-Platform-Sample-LoginTest/raw/main/dist/Play2Bit-Platform-Sample.zip
 ```
 
 4. Login-Test App 프로젝트 열기
